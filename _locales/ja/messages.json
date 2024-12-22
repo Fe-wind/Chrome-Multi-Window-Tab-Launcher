@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "全タブ一斉ウィンドウ分離",
+    "description": "拡張機能の名前"
+  },
+  "appDescription": {
+    "message": "ブラウザ上で右クリック→「すべてのタブを別々の新しいウィンドウで開く」→全てのタブが別々の新しいウィンドウで開きます",
+    "description": "拡張機能の説明および操作方法"
+  },
+  "moveToNewWindow": {
+    "message": "すべてのタブを別々の新しいウィンドウで開く",
+    "description": "コンテキストメニューのタイトル"
+  }
+}

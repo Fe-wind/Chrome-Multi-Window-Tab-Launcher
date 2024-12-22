@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Multi-Window Tab Launcher",
+  "version": "1.0",
+  "description": "ブラウザ上で右クリック→「すべてのタブを別々の新しいウィンドウで開く」→全てのタブが別々の新しいウィンドウで開きます",
+  "permissions": [
+    "tabs",
+    "contextMenus"
+  ],
+  "background": {
+    "service_worker": "background/background.js"
+  },
+  "default_locale": "ja",
+  "icons": {
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}

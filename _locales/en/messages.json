@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Separate All Tabs into New Windows",
+    "description": "Name of the extension"
+  },
+  "appDescription": {
+    "message": "Right-click anywhere in the browser → select 'Open all tabs in separate new windows' → all tabs will open in their own separate new windows.",
+    "description": "Description of the extension"
+  },
+  "moveToNewWindow": {
+    "message": "Open all tabs in separate new windows",
+    "description": "Context menu title"
+  }
+}
