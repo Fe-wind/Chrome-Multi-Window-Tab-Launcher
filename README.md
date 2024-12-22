@@ -10,7 +10,7 @@
 # 想定してた用途
 - WindowsのOS機能で、複数ウィンドウを並べて表示する機能がある。
   - ウィンドウ右上の最大化ボタンにカーソルを当てると選択肢が表示される。
-![image](https://github.com/user-attachments/assets/394ec808-b9db-47ae-82ee-d8260d4be9ee)
+- ![image](https://github.com/user-attachments/assets/394ec808-b9db-47ae-82ee-d8260d4be9ee)
 
 - その機能を活用して、ChatGPTやClaudeなどの複数のウィンドウを並べて脳筋並列活用する
 - 並べたいサイトをブックマークにまとめておいて、ブックマークを右クッリク→「すべての***」でまとめて開く→本拡張機能でバラす→並べる
